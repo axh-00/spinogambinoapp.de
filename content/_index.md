@@ -118,7 +118,7 @@ noch attraktiver gestalten.
 ### **Wochentliche Cashback-Programme**
 
 Das wochentliche Cashback-System stellt einen der Hauptvorteile des
-**spino gambino** dar. Spieler erhalten automatisch einen Prozentsatz
+**[Spino Gambino](https://spinogambino.ch "Spino Gambino")** dar. Spieler erhalten automatisch einen Prozentsatz
 ihrer Verluste zuruck, ohne komplizierte Anmeldeverfahren durchlaufen zu
 mussen. Die Berechnung erfolgt transparent basierend auf der
 Spielaktivitat der vergangenen Woche. Je hoher die Spielaktivitat, desto

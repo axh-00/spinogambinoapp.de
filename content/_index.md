@@ -166,7 +166,7 @@ etablierten Entwicklern wie Playson, BGaming und Spinomenal garantiert
 hochste Qualitatsstandards. Alle Spiele werden regelmaßig auf Fairness
 und Zufalligkeit gepruft, um ein sicheres Spielerlebnis zu
 gewahrleisten. Die mobile Optimierung ermoglicht es, alle Titel auch
-unterwegs zu genießen.
+unterwegs zu genießen. Einige Nutzer geben an, dass die [Vincispin](https://vinci-spin.de "Vincispin")-Funktion dem Spielerlebnis eine zusätzliche Abwechslung verleiht.
 
 ### **Slot-Maschinen und Video-Slots**
 

@@ -94,7 +94,7 @@ traditionellen Slots bis hin zu modernen Live-Dealer-Spielen reichen.
 
 ## **Willkommensbonus und Aktionen bei Spinogambino**
 
-Das **spinogambino casino** begrußt neue Spieler mit einem großzugigen
+Das **[Spino Gambino](https://spino-gambino.pl "Spino Gambino")spinogambino casino** begrußt neue Spieler mit einem großzugigen
 Willkommenspaket, das bis zu 2.250 EUR plus 250 Freispiele umfasst.
 Diese Einfuhrungsaktion zeigt das Engagement der Plattform, neuen
 Mitgliedern einen starken Start zu ermoglichen. Neben dem Hauptbonus

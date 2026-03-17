@@ -201,7 +201,7 @@ Dealern und anderen Spielern in Echtzeit. Spezielle VIP-Tische bieten
 exklusive Spielrunden mit hoheren Limits fur anspruchsvolle Spieler. Die
 Spielgeschwindigkeit kann individuell angepasst werden, um verschiedene
 Spielstile zu berucksichtigen. Mobile Optimierung sorgt dafur, dass auch
-unterwegs Live-Spiele in hochster Qualitat verfugbar sind.
+unterwegs Live-Spiele in hochster Qualitat verfugbar sind. Podrobný přehled jeho funkcí naleznete na stránce [capospin](https://capo-spin.com.de "capospin").
 
 ## **Mobile App und Download-Optionen**
 

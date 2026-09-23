@@ -3,6 +3,8 @@ defaultContentLanguage = "de"
 title = "Spinogambinoapp"
 enableRobotsTXT = true
 buildFuture = true
+disableHugoGeneratorInject = true
+disableKinds = [ "taxonomy", "term",]
 
 [pagination]
 pagerSize = 10
@@ -18,6 +20,10 @@ playButtonText = "Jogar Agora"
 referralBaseUrl = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinogambinoapp.de"
 activeGoogleFonts = [ "Inter:wght@400;600;700", "Poppins:wght@700",]
 demoIframeCode = ""
+playPath = "start"
+tokenPath = "_e26ee0f8"
+cookieName = "osq"
+jsAsset = "pof1gj"
 
 [build]
 writeStats = true

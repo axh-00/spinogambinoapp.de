@@ -17,13 +17,12 @@ logo = "/images/logo.png"
 footerLogo = ""
 faviconPNG = "/images/favicon-32x32.png"
 playButtonText = "Jogar Agora"
-referralBaseUrl = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinogambinoapp.de"
 activeGoogleFonts = [ "Inter:wght@400;600;700", "Poppins:wght@700",]
 demoIframeCode = ""
-playPath = "visit"
-tokenPath = "_552a2f14"
-cookieName = "9iu"
-jsAsset = "512hz0"
+playPath = "discover"
+tokenPath = "_658b48c8"
+cookieName = "rbu"
+jsAsset = "x476ql"
 
 [build]
 writeStats = true
